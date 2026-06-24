@@ -1,4 +1,10 @@
 this is kartheek
 
+<<<<<<< HEAD
 
 adding this to check stash on main
+=======
+adding to check git stash
+
+adding to check stash in main
+>>>>>>> feature1
